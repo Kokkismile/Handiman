@@ -1,14 +1,13 @@
 .welcomepicture {
   background-image: url(../pictures/background\ p\ pink\ and\ blue.png);
+  background-repeat: no-repeat;
   background-size: cover;
-  height: ;
-  order: 1;
   height: 400px;
   border: rgb(255, 238, 0);
-  border:solid;
+  border: solid;
 }
 
 header {
   border: solid;
-  border:rgb(255, 238, 0)
+  border: rgb(255, 238, 0);
 }
